@@ -3,3 +3,82 @@
     width: 100vw;
     background-color: white;
 }
+*{
+    padding: 0px;
+    border: opx;
+    font-family: Arial,sans-serif;
+}
+.logo-holder img{
+    height:170px;
+    width: 400px;
+    
+}
+.flexsible{
+    
+}
+@media screen and (min-width:500px) {
+    .left-coloum, .right-coloum{
+        width: 100%;
+
+    }
+    
+}
+@media screen and (max-width:500px){
+    .flexsible{
+        display:flex;
+    }    
+}
+.left-coloum{
+    padding: 10px;
+    background-color: white;
+}
+.content{
+    text-align: center;
+    border: 0px;
+    border-bottom-width:30px;
+}
+.content h2{
+    text-align: left;
+    border: 0px;
+    padding: 0px;
+}
+.content p{
+    border: 0px;
+    padding: 2px;
+    text-align: left;
+}
+.right-coloum{
+    margin-top: 20px;
+    text-align: left;
+    padding: 10px;
+}
+.right-coloum-holder service{
+    text-decoration: none;
+}
+.right-coloum-holder info h4{
+    margin: 0px;
+    padding: 0px;
+}
+.right-coloum-holder info p{
+    margin: 20px;
+    padding: 0px;
+}
+ul{
+    list-style: none;
+    margin-left:5px ;
+}
+li{
+    list-style: none;
+}
+li h4{
+    margin-left:5px ;
+}
+li p{
+    margin-left: 10px;
+}
+.bottom{
+    background-color: black;
+    color: antiquewhite;
+    padding: 10px;
+    text-align: center;
+}
