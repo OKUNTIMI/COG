@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/COG/static/css/main.cdab3252.css",
+    "main.js": "/COG/static/js/main.311bdb0f.js",
+    "static/js/453.06d0989c.chunk.js": "/COG/static/js/453.06d0989c.chunk.js",
+    "static/media/coglogo.jpg": "/COG/static/media/coglogo.25c3ff414906c6f45c7f.jpg",
+    "index.html": "/COG/index.html",
+    "main.cdab3252.css.map": "/COG/static/css/main.cdab3252.css.map",
+    "main.311bdb0f.js.map": "/COG/static/js/main.311bdb0f.js.map",
+    "453.06d0989c.chunk.js.map": "/COG/static/js/453.06d0989c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdab3252.css",
+    "static/js/main.311bdb0f.js"
+  ]
+}
